@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Currently working on visual attention, eye movements and haptics<br>👓 Open to collaborate on extended reality (AR/VR/MR)<br>💻 Learning Unity and C#<br>🧠 Ask me about human cognition and perception<br>😋 A fun fact about me is I can talk about ice cream for hours
+👀 Currently working on visual attention, eye movements and haptics<br>👓 Open to collaborate on extended reality (AR/VR/MR)<br>💻 Learning Unity and C#<br>🧠 Ask me about human cognition and perception
 
 
 ## 🌐 Socials:
